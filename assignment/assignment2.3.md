@@ -39,7 +39,7 @@ Save the following code as "index.html".
 
     <!-- Header Section -->
     <div id="header" class="section">
-        <h1>Radhika Singh</h1>
+        <h1>Atul Yadav</h1>
         <p>Welcome to My Personal Webpage</p>
     </div>
 
@@ -49,7 +49,7 @@ Save the following code as "index.html".
     <div id="about" class="section">
         <h2>About Me</h2>
         <p data-info="introduction">
-            Hello! I am Radhika Singh, a BBA student at Invertis University.
+            Hello! I am Atul Yadav, a B.Tech student at Invertis University.
             I enjoy learning new skills and exploring business and management.
             My goal is to develop my professional and communication skills.
         </p>
@@ -61,7 +61,7 @@ Save the following code as "index.html".
     <div id="education" class="section">
         <h2>Education</h2>
         <p class="details">
-            I am pursuing a Bachelor of Business Administration (BBA)
+            I am pursuing a B.Tech (B.Tech)
             from Invertis University.
         </p>
     </div>

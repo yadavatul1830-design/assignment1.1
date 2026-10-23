@@ -2,11 +2,11 @@ Assignment 2.2: Personal Introduction Webpage
 
 Q1. Write your name in the main heading.
 
-Answer: I used the "<h1>" tag to display my name, Radhika Singh, as the main heading of the webpage.
+Answer: I used the "<h1>" tag to display my name, Atul Yadav, as the main heading of the webpage.
 
 Q2. Write an introduction paragraph in the About Me section.
 
-Answer: I created an About Me section using the "<p>" tag to introduce myself as a BBA student at Invertis University.
+Answer: I created an About Me section using the "<p>" tag to introduce myself as a B.Tech student at Invertis University.
 
 Q3. Create sections for education, skills, and hobbies.
 
@@ -38,15 +38,15 @@ Submission: Personal Introduction Webpage and HTML Code
 </head>
 <body>
 
-    <h1>Radhika Singh</h1>
+    <h1>Atul Yadav</h1>
     <h6>Personal Introduction Webpage</h6>
     <hr>
 
     <div>
         <h2>About Me</h2>
         <p>
-            Hello! My name is <strong>Radhika Singh</strong>.
-            I am a BBA student at Invertis University.
+            Hello! My name is <strong>Atul Yadav</strong>.
+            I am a B.Tech student at Invertis University.
             I am interested in learning new skills and
             <em>improving my knowledge</em>.
             <br>
@@ -58,8 +58,8 @@ Submission: Personal Introduction Webpage and HTML Code
 
     <div>
         <h2>Education</h2>
-        <h3>Bachelor of Business Administration (BBA)</h3>
-        <p>I am pursuing my BBA from Invertis University.</p>
+        <h3>B.Tech (B.Tech)</h3>
+        <p>I am pursuing my B.Tech from Invertis University.</p>
     </div>
 
     <hr>

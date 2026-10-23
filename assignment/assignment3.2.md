@@ -36,7 +36,7 @@ HTML Code — "index.html"
 <body>
 
     <header>
-        <h1>Radhika Singh's Portfolio</h1>
+        <h1>Atul Yadav's Portfolio</h1>
         <p>Welcome to my personal portfolio webpage.</p>
     </header>
 
@@ -44,11 +44,11 @@ HTML Code — "index.html"
 
     <section>
         <h2>About Me</h2>
-        <p>Hello! I am Radhika Singh, a BBA student
+        <p>Hello! I am Atul Yadav, a B.Tech student
         interested in learning new skills.</p>
 
         <img src="images/profile.jpg"
-             alt="Profile photograph of Radhika Singh"
+             alt="Profile photograph of Atul Yadav"
              width="200"
              height="200">
     </section>
@@ -57,7 +57,7 @@ HTML Code — "index.html"
 
     <section>
         <h2>Education</h2>
-        <p>I am pursuing my Bachelor of Business Administration
+        <p>I am pursuing my B.Tech
         from Invertis University.</p>
 
         <img src="images/education.jpg"

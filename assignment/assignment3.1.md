@@ -51,7 +51,7 @@ HTML Code
 
     <main>
         <h2>Introduction</h2>
-        <p>Hello! My name is Radhika Singh. I am learning HTML
+        <p>Hello! My name is Atul Yadav. I am learning HTML
         and web development. This is my first two-page website.</p>
 
         <p>
@@ -94,7 +94,7 @@ HTML Code
 
     <main>
         <h2>Who Am I?</h2>
-        <p>My name is Radhika Singh, and I am a BBA student
+        <p>My name is Atul Yadav, and I am a B.Tech student
         at Invertis University.</p>
 
         <p>I enjoy learning new skills, reading books, and

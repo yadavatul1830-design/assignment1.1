@@ -174,7 +174,7 @@ File: "registration.html"
             <select id="course" name="course" required>
                 <option value="">Select your course</option>
                 <option value="BTech">B.Tech</option>
-                <option value="BBA">BBA</option>
+                <option value="B.Tech">B.Tech</option>
                 <option value="BCA">BCA</option>
                 <option value="Other">Other</option>
             </select>

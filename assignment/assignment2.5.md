@@ -29,12 +29,12 @@ Save this code in a file named "index.html".
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Radhika Singh - Personal Introduction</title>
+    <title>Atul Yadav - Personal Introduction</title>
 </head>
 <body>
 
     <header>
-        <h1>Radhika Singh</h1>
+        <h1>Atul Yadav</h1>
         <p>Welcome to My Personal Introduction Webpage</p>
     </header>
 
@@ -43,7 +43,7 @@ Save this code in a file named "index.html".
     <section>
         <h2>About Me</h2>
         <p>
-            Hello! My name is Radhika Singh. I am a BBA student
+            Hello! My name is Atul Yadav. I am a B.Tech student
             at Invertis University. I enjoy learning new things,
             improving my skills, and exploring new opportunities.
         </p>
@@ -53,9 +53,9 @@ Save this code in a file named "index.html".
 
     <section>
         <h2>Education</h2>
-        <h3>Bachelor of Business Administration (BBA)</h3>
+        <h3>B.Tech (B.Tech)</h3>
         <p>University: Invertis University</p>
-        <p>Course: Bachelor of Business Administration</p>
+        <p>Course: B.Tech</p>
     </section>
 
     <hr>
@@ -86,7 +86,7 @@ Save this code in a file named "index.html".
 
     <section>
         <h2>Contact Information</h2>
-        <p>Name: Radhika Singh</p>
+        <p>Name: Atul Yadav</p>
         <p>Email: your-email@example.com</p>
     </section>
 
